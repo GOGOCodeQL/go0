@@ -36,7 +36,7 @@ func main() {
 		log.Info("Finish Loop")
 	}
 	log.Warn("Bye Bye!")
-	log.Fatal("Bye Bye!")
+	log.Fatal("Goooooooood Bye!")
 	//
 	log.Info("Unreachable")
 }
