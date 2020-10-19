@@ -33,6 +33,7 @@ func main() {
 		fmt.Println(n, X)
 		Myprinter(n)
 		println(C.sum(10, 50))
+		println(len("XXXX"))
 		log.Info("Finish Loop")
 	}
 	log.Warn("Bye Bye!")
