@@ -1,3 +1,5 @@
+int main(){
+}
 long sum(long a, long b){
     long answer = a + b;
     long new_answer = 3 * ((answer) * 2);
